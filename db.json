@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "shriniket",
+      "day": "monday",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "football ",
+      "day": "sunday",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "react project",
+      "day": "monday",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "DSA",
+      "day": "tuesday",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
